@@ -12,6 +12,6 @@ int main()
     cin >> b;
     c = a + b;
     cout << "The value of c is " << c << endl;
-    cout << " the value of global c is  " << ::c << endl;
+    cout  << " the value of global c is  " << ::c << endl;
     return 0;
 }
