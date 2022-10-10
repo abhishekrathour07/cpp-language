@@ -8,7 +8,7 @@ int main(){
     while(i<10){
         i++;
         table = num *i;
-    cout << num<<"x "<<i<<" is "<<table<<endl;
+    cout << num<<" x "<<i<<" is "<<table<<endl;
     }
     return 0;
 }
