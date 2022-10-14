@@ -9,7 +9,7 @@ int main()
     cin >> a;
     cout << "Enter the num of column";
     cin >> b;
-    cout << "enter the element in the array";
+    cout << "enter the element in the array" << endl;
     for (i = 0; i < a; i++)
     {
         for (j = 0; j < b; j++)
