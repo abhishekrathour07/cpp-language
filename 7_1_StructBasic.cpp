@@ -3,15 +3,13 @@
 
 using namespace std;
 
-struct student
-{
+struct student{
     char name[20];
     char auid[25];
     int attendence;
 };
 
-int main()
-{
+int main(){
     struct student s1, s2, s3, s4;
 
     s1.attendence = 78;
@@ -30,6 +28,10 @@ int main()
     strcpy(s3.name, "paritosh");
     strcpy(s3.auid, "ABCA036");
 
+    s4.attendence = 78;
+    strcpy(s4.name, "paritosh2");
+    strcpy(s4.auid, "ABCA0363");
+
     cout << s1.name << endl;
     cout << s1.auid << endl;
     cout << s1.attendence << endl;
@@ -45,5 +47,5 @@ int main()
     cout << s4.name << endl;
     cout << s4.auid << endl;
     cout << s4.attendence << endl;
-
+    return 0;
 }
