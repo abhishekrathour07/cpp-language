@@ -13,7 +13,7 @@ public:
 };
 void shop ::setPrice(void)
 {
-    cout << "Enter id of your item number " << counter + 1<<" ";
+    cout << "Enter id of your item number " << counter + 1 << " ";
     cin >> itemId[counter];
     cout << "Enter price of your item";
     cin >> itemPrice[counter];

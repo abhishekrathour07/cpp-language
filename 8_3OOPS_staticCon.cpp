@@ -17,7 +17,7 @@ public:
         cout << "The id of this employee is " << id << " and employee number is " << count << endl;
     }
 };
-int employee::count ;
+int employee::count;
 int main()
 {
     employee abhi, shishu;
