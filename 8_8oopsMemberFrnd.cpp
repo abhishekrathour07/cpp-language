@@ -2,9 +2,9 @@
 using namespace std;
 class complex ;
     class calculator{
+  friend int calculator ::void   sumrealcomplex();
         public:
          void sumrealcomplex(complex,complex);
-//   friend int calculator ::  sumrealcomplex(complex,complex);
     };
   
   class complex{
@@ -24,5 +24,5 @@ return ( o1.a +o2.a);
   }
 
   int main(){
-    
+
   }
