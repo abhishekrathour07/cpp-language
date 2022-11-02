@@ -1,3 +1,5 @@
+
+// Write a program to finds the simple interest. 
 #include <iostream>
 using namespace std;
 

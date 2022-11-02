@@ -1,3 +1,4 @@
+//  Write a program to find the income tex of the given value by user .
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,4 @@
+// Find  the area of the circle and cylinder as well as circumfrance .
 #include<iostream>
 using namespace std;
 

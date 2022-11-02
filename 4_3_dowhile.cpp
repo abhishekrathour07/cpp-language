@@ -1,3 +1,4 @@
+// Write a program to find the multiplication table of given number.
 #include <iostream>
 using namespace std;
 

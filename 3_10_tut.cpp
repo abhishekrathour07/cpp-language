@@ -1,3 +1,4 @@
+// Write a program to find it is lower case or upper case.
 #include<iostream>
 using namespace std;
 

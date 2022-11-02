@@ -1,3 +1,4 @@
+// Write aprogram to find avg through calling function.
 #include <iostream>
 using namespace std;
 

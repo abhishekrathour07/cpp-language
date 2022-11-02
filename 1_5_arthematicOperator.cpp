@@ -1,3 +1,4 @@
+// Arthematic equation.
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,4 @@
+// Write a program of reverse multiplication .
 #include <iostream>
 using namespace std;
 

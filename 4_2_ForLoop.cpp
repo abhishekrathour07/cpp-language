@@ -1,3 +1,4 @@
+// Write a  program to find the sum and avg of ten number.
 #include <iostream>
 using namespace std;
 

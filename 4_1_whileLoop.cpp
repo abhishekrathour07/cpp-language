@@ -1,3 +1,4 @@
+// Write a program to find the sum of the natural  number .
 #include<iostream>
 using namespace std;
 

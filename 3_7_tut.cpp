@@ -1,3 +1,4 @@
+// Write a program to  find  the the percentage of three student . 
 #include <iostream>
 using namespace std;
 

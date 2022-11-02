@@ -1,3 +1,4 @@
+// Concept of globel variables.
 #include <iostream>
 using namespace std;
 

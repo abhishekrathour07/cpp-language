@@ -1,3 +1,4 @@
+// How varios types we inialize the value.
 #include <iostream>
 using namespace std;
 

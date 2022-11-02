@@ -1,3 +1,4 @@
+//   write program to convert cel into far through function .
 #include <iostream>
 using namespace std;
 float far(float celcius)
