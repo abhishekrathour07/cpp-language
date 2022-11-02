@@ -1,3 +1,4 @@
+// Introduction of this arrayb in c++
 #include <iostream>
 using namespace std;
 class A

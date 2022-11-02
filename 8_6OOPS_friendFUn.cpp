@@ -1,3 +1,4 @@
+// Program to introduce friend in class to access the privete data
 #include <iostream>
 using namespace std;
 

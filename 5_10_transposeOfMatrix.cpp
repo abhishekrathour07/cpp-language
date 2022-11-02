@@ -1,3 +1,4 @@
+// Write a program to find the transpose of the matrix.
 #include <iostream>
 using namespace std;
 

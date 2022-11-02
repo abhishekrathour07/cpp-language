@@ -1,3 +1,4 @@
+// Write  a class of binary number .
 #include <iostream>
 using namespace std;
 class binary

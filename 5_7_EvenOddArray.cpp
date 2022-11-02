@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// program to find how much even or odd number in the array and put in differ array.
 int main()
 {
     int a[20], i, size;

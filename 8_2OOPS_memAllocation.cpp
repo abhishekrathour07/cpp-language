@@ -1,3 +1,4 @@
+// write  a program using class to find item id and item price by using class .
 #include <iostream>
 using namespace std;
 class shop

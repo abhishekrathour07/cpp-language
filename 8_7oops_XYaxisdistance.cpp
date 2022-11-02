@@ -1,3 +1,4 @@
+// Class program to represnt the value of X and Y axis .
 #include <iostream>
 #include <cmath>
 using namespace std;

@@ -1,3 +1,4 @@
+// c oncept of multilevel inheritance . 
 #include <iostream>
 using namespace std;
 class student

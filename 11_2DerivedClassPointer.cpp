@@ -1,3 +1,4 @@
+// DErived class pointer in c++
 #include<iostream>
 using namespace std;
 class baseclass{

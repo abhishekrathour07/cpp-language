@@ -1,3 +1,4 @@
+// Program to find the occourance of array / or searchinf element 
 #include <iostream>
 using namespace std;
 
@@ -21,7 +22,7 @@ int main()
              c=1;
         }
     }
-    
-    cout << "NO, This no . is not present "; //This will also work .
+    if (c==0)
+    cout << "NO, This no . is not present\n "; //This will also work .
     return 0;
 }

@@ -1,3 +1,4 @@
+// Write a program to find the force of attraction of mass .
 #include <iostream>
 using namespace std;
 float force(double  mass)

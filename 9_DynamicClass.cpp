@@ -1,3 +1,4 @@
+// Concept of constructor how to dinamically call the constructor.
 #include <iostream>
 using namespace std;
 

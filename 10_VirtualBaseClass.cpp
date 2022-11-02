@@ -1,3 +1,4 @@
+// What is virtual base class .
 #include <iostream>
 using namespace std;
 
@@ -16,7 +17,7 @@ public:
         cout << "Your roll number is " << roll << endl;
     }
 };
-class Marks : virtual public Student
+class Marks : virtual public Student // Virtual base class have higher precendence .
 {
 protected:
     float math, eng;

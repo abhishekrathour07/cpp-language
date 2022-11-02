@@ -1,3 +1,4 @@
+//  Program to find how much even and odd num in the given array
 #include <iostream>
 using namespace std;
 

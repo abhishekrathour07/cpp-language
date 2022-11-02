@@ -1,3 +1,4 @@
+// Write aprogram in file I/O to read and write th e files 
 #include<iostream>
 #include<fstream>
 

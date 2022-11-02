@@ -1,3 +1,4 @@
+// Concept of copy constructor.
 #include <iostream>
 using namespace std;
 

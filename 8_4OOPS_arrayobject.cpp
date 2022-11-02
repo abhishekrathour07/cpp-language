@@ -1,3 +1,4 @@
+// How to make array in class .
 #include <iostream>
 using namespace std;
 class employee

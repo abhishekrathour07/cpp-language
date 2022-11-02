@@ -1,3 +1,4 @@
+// Program of pointer in the class to get the data not by value by address 
 #include <iostream>
 using namespace std;
 

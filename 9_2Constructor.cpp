@@ -1,3 +1,4 @@
+// Implicit and explicit call in the constructor
 #include <iostream>
 using namespace std;
 
@@ -18,8 +19,7 @@ public:
         b = y;
     }
 
-int
-main()
+int main()
 {
     // Implicit call
 complex a(3,4);

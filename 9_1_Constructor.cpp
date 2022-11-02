@@ -1,3 +1,4 @@
+// Constructor in c++ 
 #include <iostream>
 using namespace std;
 class Complex
@@ -5,7 +6,7 @@ class Complex
     int a, b;
 
 public:
-    Complex(void)
+    Complex(void) // having same name as class
     {
         a = 4;
         b = 5;

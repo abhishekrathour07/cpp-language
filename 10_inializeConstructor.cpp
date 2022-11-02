@@ -1,3 +1,4 @@
+// Types of initialize in comstructor.
 #include<iostream>
 using namespace std;
 

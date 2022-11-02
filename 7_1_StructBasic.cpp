@@ -1,3 +1,4 @@
+// Basic concept of structure.
 #include <iostream>
 #include <string.h>
 
@@ -7,7 +8,7 @@ struct student{
     char name[20];
     char auid[25];
     int attendence;
-};
+}; //}s1,s2,s3,s4; --> we cann also initialie like this
 
 int main(){
     struct student s1, s2, s3, s4;

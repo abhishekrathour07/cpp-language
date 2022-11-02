@@ -1,9 +1,10 @@
+//  Concept of class .
 #include <iostream>
 using namespace std;
 class employee
 {
 private:
-    int a, b, c;
+    int a, b, c; // we can not dirctly accesss this bcz of privet members
 
 public:
     int d, e;
