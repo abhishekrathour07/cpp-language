@@ -13,6 +13,9 @@ ifstream dikhade("sample12b.txt");
 dikhade>>st2;
 cout<<st2;
 getline(dikhade,st2);
+getline(dikhade,st2);
+getline(dikhade,st2);
+cout<<st2;
 cout<<st2;
 
     return 0;
