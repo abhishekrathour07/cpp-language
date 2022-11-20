@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int a = 6, b = 9;
+    float a = 19, b = 9;
     cout << "These are arthematic operators " << endl;
     cout << "The value of (a+b) is " << (a + b) << endl;
     cout << "The value of (a-b) is " << (a - b) << endl;

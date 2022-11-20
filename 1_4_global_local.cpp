@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int c = 6;
+float c = 6.0123;
 
 int main()
 {
