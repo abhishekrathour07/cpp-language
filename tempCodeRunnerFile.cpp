@@ -1,1 +1,1 @@
-int x = 20;
+#include"graphics.h"
